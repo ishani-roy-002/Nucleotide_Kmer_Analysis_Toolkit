@@ -1,5 +1,5 @@
 # First GitHub Project 
-A Python-based bioinformatics project analyzes nucleotide sequences (DNA/RNA) obtained from FASTA files. 
+A Python-based bioinformatics project analyzes nucleotides (DNA/RNA) sequences obtained from FASTA files. 
 It features a toolkit for:-
 i) sequence validation, 
 ii) nucleotide composition analysis, 
