@@ -1,0 +1,8 @@
+# First GitHub Project 
+A Python-based bioinformatics project analyzes nucleotide sequences (DNA/RNA) obtained from FASTA files. 
+It features a toolkit for:-
+i) sequence validation, 
+ii) nucleotide composition analysis, 
+iii) GC content calculation, 
+iv) complement and reverse complement generation and 
+v) K-mer frequency analysis with visualization support.
