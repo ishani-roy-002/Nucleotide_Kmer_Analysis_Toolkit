@@ -24,7 +24,7 @@ This Google Colab notebook performs comprehensive analysis of DNA sequences obta
 - Identifies most frequent k-mers in sequences
 - Supports analysis of subsequence patterns
 - Ranks k-mers by frequency
-5. Visualization
+## 5. Visualization
 - Bar plots for top k-mer frequencies
 - Heatmaps for k-mer abundance patterns
 - Clustered heatmaps for hierarchical k-mer analysis
